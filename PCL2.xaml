@@ -1,6 +1,0 @@
-<local:MyCard Title="自定义功能">
-    <StackPanel Margin="25,40,23,15">
-        <local:MyButton Margin="0,8,0,0" Width="250" Height="35"
-                 Text="进入2b2t" EventType="启动游戏" EventData="1.12.2-Forge_14.23.5.2859|mc2b2t.com" ToolTip="服务器 IP：mc2b2t.com" />
-    </StackPanel>
-</local:MyCard>
